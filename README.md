@@ -1,10 +1,10 @@
 # PopX React Assignment
 
 ## Live Demo
-https://popx-app.vercel.app
+https://popx-app-assignment-kappa.vercel.app/
 
 ## GitHub Repository
-https://github.com/yourusername/popx-app
+https://github.com/Govindbaddi/popx-app_assignment
 
 ## Tech Stack
 -For this development i had used these technologies: 
